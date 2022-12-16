@@ -1,0 +1,8 @@
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\bin\Debug\SH_assignment mail.exe.config
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\bin\Debug\SH_assignment mail.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\bin\Debug\SH_assignment mail.pdb
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\obj\Debug\SH_assignment mail.csproj.AssemblyReference.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\obj\Debug\SH_assignment mail.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\obj\Debug\SH_assignment mail.csproj.CoreCompileInputs.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\obj\Debug\SH_assignment mail.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_assignment mail\SH_assignment mail\obj\Debug\SH_assignment mail.pdb
